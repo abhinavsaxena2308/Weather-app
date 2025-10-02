@@ -1,0 +1,21 @@
+name: skygradient_weather_flutter
+description: Fully interactive SkyGradient Weather Flutter app
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+  google_fonts: ^6.1.0
+  intl: ^0.18.1 # for formatting dates
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
