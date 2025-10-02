@@ -44,3 +44,5 @@ ios/Flutter/Flutter.podspec
 *.swp
 *.tmp
 *.temp
+
+.dart_tool
